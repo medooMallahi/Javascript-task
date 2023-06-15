@@ -1,0 +1,17 @@
+{
+  "name": "hokify",
+  "version": "1.0.0",
+  "description": "backend coding challenge",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.0.0"
+  },
+  "dependencies": {
+    "jasmine-spec-reporter": "^7.0.0"
+  }
+}
